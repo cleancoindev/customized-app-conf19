@@ -1,6 +1,6 @@
 # Buttercup Games App
 
-![preview](https://raw.github.com/splunk/customized-app-conf19/master/public/dashboard-final.png)
+![app preview](https://github.com/splunk/customized-app-conf19/raw/master/public/dashboard-final.png)
 
 This repo contains the source code for the Buttercup Games App, a customized Single Page Application leveraging Splunk's platform and libraries. It was demoed in the "Building Applications with Splunk UI and React Visualizations" developer talk at .conf 2019.
 
