@@ -32,7 +32,7 @@ class App extends Component {
         const { type, targetId } = ev;
         // based on the visualization id we can show additional context
         // for the clicked location
-        const [prefix, vizId] = targetId.split('_'); 
+        const [, vizId] = targetId.split('_');
         if (type === 'ellipse.click' || type === 'value.click') {
             ev.originalEvent.preventDefault();
             this.setState({

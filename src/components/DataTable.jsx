@@ -14,6 +14,7 @@ export default class DataTable extends Component {
     constructor(props) {
         super(props);
         this.state = {
+            // We use local mock data here. In the real application, the data may come from Splunk.
             headers: [
                 { label: 'Name', key: 'name', align: 'left', width: 150, minWidth: 80 },
                 { label: 'Score', key: 'score', align: 'left', width: 120, minWidth: 40 },
