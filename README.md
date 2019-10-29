@@ -10,16 +10,15 @@ To build this app we used 3 JavaScript packages published by Splunk:
 
 ### @splunk/react-ui
 
-This package exposes UI components such as buttons, modals, a table 
+This package exposes UI components such as buttons, modals, a table
 
-### @splunk/dashboard-framework 
+### @splunk/dashboard-framework
 
 This package exposes React components to render a dashboard based on a dashboard definition.
 
 ### @splunk/react-visualizations
 
 This package exposes Splunk's visualizations as React components
-
 
 Each of the packages can be installed via the public npmjs registry.
 
@@ -29,9 +28,8 @@ Use `npm install` or `yarn` to install the dependencies. Then run `npm run start
 
 ## How to read the code
 
-The app's entry point is at `src/App.js`. 
-In this file we import the `DataModal` to show additional context in a modal, and `DashboardCore` to render the main dashboard view. 
-
+The app's entry point is at `src/App.js`.
+In this file we import the `DataModal` to show additional context in a modal, and `DashboardCore` to render the main dashboard view.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -47,7 +45,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br>
 You will also see any lint errors in the console.
 
-
 ### `npm run build`
 
 Builds the app for production to the `build` folder.<br>
@@ -57,3 +54,8 @@ The build is minified and the filenames include the hashes.<br>
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+## Feel free to drop an email if you have any question
+
+Core Dashboard & Splunk Investigate - dashboards@splunk.com
+Core Viz & Splunk Investigate - visualizations@splunk.com
