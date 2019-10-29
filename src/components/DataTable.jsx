@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 import { cloneDeep, find, orderBy } from 'lodash';
 import styled from 'styled-components';
-import DL from '@splunk/react-ui/DefinitionList';
 import Button from '@splunk/react-ui/Button';
+import DL from '@splunk/react-ui/DefinitionList';
 import Table from '@splunk/react-ui/Table';
 
 const StyledFlagButtonContainer = styled.div`

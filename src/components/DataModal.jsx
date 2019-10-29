@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import Modal from '@splunk/react-ui/Modal';
+
 import Tab from './Tab';
 
 class DataModal extends Component {

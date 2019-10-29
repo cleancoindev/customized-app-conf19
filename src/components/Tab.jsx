@@ -1,7 +1,7 @@
 import React from 'react';
-import TabLayout from '@splunk/react-ui/TabLayout';
-import Table from '@splunk/react-icons/Table';
 import ChartBar from '@splunk/react-icons/ChartBar';
+import Table from '@splunk/react-icons/Table';
+import TabLayout from '@splunk/react-ui/TabLayout';
 import Area from '@splunk/react-visualizations/Area';
 import { SCP_CATEGORICAL } from '@splunk/visualization-color-palettes';
 
