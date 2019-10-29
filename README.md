@@ -59,4 +59,3 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 Dashboard Team - dashboards@splunk.com<br>
 Visualization Team - visualizations@splunk.com<br>
-Splunk UI Team - splunkui@splunk.com<br>
