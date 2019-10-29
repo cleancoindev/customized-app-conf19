@@ -57,5 +57,5 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ## Feel free to drop an email if you have any question
 
-Core Dashboard & Splunk Investigate - dashboards@splunk.com
+Core Dashboard & Splunk Investigate - dashboards@splunk.com<br>
 Core Viz & Splunk Investigate - visualizations@splunk.com
